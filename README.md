@@ -1,4 +1,4 @@
-# Python_OOP_1
+
 create class employee with the following characteristics:
 
 * Attributes:
