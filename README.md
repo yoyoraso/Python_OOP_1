@@ -1,4 +1,4 @@
-proplem2:
+proplem1:
 
 create class employee with the following characteristics:
 
